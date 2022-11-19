@@ -7,3 +7,5 @@
 - 5- Create and Run chat.py file (This File contains loop for Chatbot and User Conversation)
 - 6- Now You Can Start Chatting with the Chatbot
 - 7- Create Static and templates folder and inside that create create Frond End (html/js/css)
+- 8- Create Procfile,Docker,github/workflows files for Deployment on Cloud using Docker and GitHub Action as per CI-CD Pipeline
+- 9- Open the API Link and Chat with my Chatbot
