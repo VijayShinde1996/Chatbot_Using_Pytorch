@@ -1,0 +1,30 @@
+{"intents": 
+    [{"tag": "greeting","patterns":["Hi","Hii","Hey","How are you","Is anyone there?","Hello","Good day","Nameste","ram ram"],
+        "responses": ["Hey :-)","Hello, thanks for visiting","Hi there, what can I do for you?","Hi there, how can I help?","Welcome to VRS Foundation","Hello Boss"]},
+     
+        {"tag": "goodbye","patterns": ["Bye", "See you later", "Goodbye","Break","Quit"],
+      "responses": ["See you later, thanks for visiting","Have a nice day","Bye! Come back again soon.","See You Soon","Visit Again"]},
+     
+      {"tag": "thanks","patterns": ["Thanks", "Thank you", "That's fo the help", "Thank's a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure","Dosti me No Sorry No Thank You..:)"]},
+
+      {"tag": "items","patterns": ["Which items do you have?","What kinds of items are there?","What do you sell?","What do you do?","You are good at?"],
+        "responses": ["We sell coffee and tea","We have coffee and tea","We have our Coffe and Tea shop","We do all the things that you want"]},
+      
+      {"tag": "payments","patterns": ["Do you take credit cards?","Do you accept Mastercard?","Can I pay with PhonePay?","Are you cash only?","Do you accept UPI pay","Do you accept online payments","Do you accept cash"],
+        "responses": ["We accept VISA, Mastercard and Paypal","We accept most major credit cards, and Paypal","We accept UPI","We accept online payments","We accept Cash and Online Payments As well"]},
+
+      {"tag": "delivery","patterns": ["How long does delivery take?","How long does shipping take?","When do I get my delivery?"],
+        "responses": ["Delivery takes 2-4 days","Shipping takes 2-4 days","Usually Delivery takes 2-4 days"]},
+
+      {"tag": "about","patterns": ["Hello What is your name","Who invented you","In Which year you are invented","How old you are","Where are you from","Your place?","Are you human?"],
+        "responses": ["My name is VRS","My creator was Mr. Vijay Shinde","year 2022","I am from Maharashtra, India","I am not a Human but i love humans"]},
+
+      {"tag": "funny","patterns": ["Tell me a joke!","Tell me something funny!","Do you know a joke?","Make me smile","I am sad"],
+        "responses": ["Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+          "What did the buffalo say when his son left for college? Bison.",
+          "One Old man died at the age of 15",
+          "Jab Itna hai dhundne ko, Toh Rehne do Phir....",
+          "Ha. Ha.. Ha... Haaaa Haaaaa hAAAAAAA"]
+}   ]   }
+  
